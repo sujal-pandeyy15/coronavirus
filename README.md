@@ -9,11 +9,11 @@ The primary agent of the virus is widely speculated to be a Bat. A Pangolin coul
  
 The authorities quickly ordered people to close and destroy the samples. The government doubted whether this virus spreads with human contact or not, the rise in the corona cases across the globe skyrocketed as the patients doubled within months. After the sudden rise in the number of infected worldwide, the authorities finally decided to close off the wet market. The wet market had plenty of exotic animals, which the government had decided to let it be at that and let the wet market be. In short, the Chinese authorities chose the smaller circle of rich people who ate these animals over the safety of poorer communities. This also shows the carelessness of Chinese officials.
 
-Causes of Coronavirus
+ # Causes of Coronavirus
 
 What are the causes of COVID – 19 now that we have learned the back story of corona? A virus is not even a living thing. It relies on a host to multiply itself. The main cause of the spread of Coronavirus is via droplet infection. As people cough and sneeze droplets of virus spread around the surroundings infecting anyone who’s near. It may also spread via contact with the infected and not cleansing properly. A person who has contact with the infected rubs his eyes or nose it spreads.  When the COVID – 19 viruses enter a person’s lungs the spikes in the virus connect the victim’s cells and start duplicating itself. As a cell is overpopulated with the virus it explodes and gives rise to many more viruses. As this process continues over a span of 10 days there are millions and billions of viruses in our lungs. In time the cells in the lungs rapidly die away, which may even lead to permanent damage. But as a person recovers, the viruses are intercepted by the immune system and cleans up the damaged cells.
 
-Symptoms of Coronavirus
+ # Symptoms of Coronavirus
 
 What are the symptoms of coronaviruses? The main risk factor of a corona case is its incubation period. While a person may be infected with the virus, the person still wouldn’t notice the virus resulting in the more spread of the virus. If one has common signs such as respiratory symptoms, fever, cough, shortness of breath, and breathing difficulties one should immediately seek medical support. In more severe cases, the infection can cause pneumonia, severe acute respiratory syndrome, kidney failure, and even death.
 
@@ -21,7 +21,7 @@ A person MUST wear PPE, even if PPE is not readily available one should compulso
 
 
  
-Effects of Coronavirus
+ # Effects of Coronavirus
 
 What are the effects of this coronavirus? There certainly cannot be any advantages to the corona outbreak right? No, wrong. Even though there are people dying, lost jobs, and stock market crash insight, a rise of corona there are still some good to this. Research shows that 1 – 3 people have little to no access to sanitation facilities. Although this might sound shocking, 2 -3 people who have rights and facilities to access sanitation still many did not wash or had proper hygiene. An outbreak of corona has taught people to follow basic sanitation and people who did not have this right also were notified and provided such facilities. If this was previously done by people the virus could have been suppressed as well.
 
