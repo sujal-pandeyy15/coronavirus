@@ -31,7 +31,7 @@ As the death and infected tolls greatly rise, it is also a life lesson. A virus 
 
 USA underestimated the virus due to which the most infected are from the USA. Nepal also did not enforce proper rules and wasn’t prepared for the virus. It maintained an open border with India from where Corona cases appeared in Nepal. Although people doubt it we can still learn from China with proper governance the corona cases have been controlled.
 # noise pollution
-<!DOCTYPE html>
+
 <html>
 <style>
 input[type=text], select {
@@ -58,3 +58,5 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #45a049;
 }
+<style>
+<html>
